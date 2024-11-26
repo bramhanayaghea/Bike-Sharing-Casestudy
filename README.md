@@ -56,7 +56,7 @@ American market shared bike demand, determining the crucial predictors,
 developing a model to understand demand variations, facilitating 
 adaptive business strategies, and exploring demand dynamics for 
 effective decision-making. This case study aims to achieve this goal by 
-building a multivariate linear regression model using the provided [dataset](https://github.com/akashkriplani/bike-sharing-assigment/blob/main/day.csv).
+building a multivariate linear regression model using the provided [dataset](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/day.csv).
 
 The primary objective is to identify the key variables 
 that significantly influence the prediction of shared bike demand and 
