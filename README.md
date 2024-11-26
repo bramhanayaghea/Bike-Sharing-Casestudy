@@ -100,21 +100,20 @@ weathersit_mist****
 
 [](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#recommendations)
 
-- 1. Temperature-Based Strategy: Maximize operations during optimal temperature conditions
+  1. Temperature-Based Strategy: Maximize operations during optimal temperature conditions
   
   2. Weather Planning: Develop contingency plans for adverse weather conditions
   
   3. Seasonal market Demand Captialization:
-  - Capitalize on winter popularity
-  
-  - Address spring season challenges
+      a) Capitalize on winter popularity
+      b) Address spring season challenges
   4. Growth Planning: Leverage strong yearly growth trend for expansion
   
   5. Operational Efficiency: Plan maintenance during predicted low-demand periods
   
   6. Marketing Strategy:
-  - Weather-based promotions
-  - Season-specific campaigns
+     a) Weather-based promotions
+     b) Season-specific campaigns
 
 ## Technologies Used
 
