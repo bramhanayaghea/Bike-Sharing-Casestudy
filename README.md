@@ -86,13 +86,13 @@ weathersit_mist****
    
    Negative factors: adverse weather conditions, windspeed, specific months (November, December, July)
    
-   3. Key Features Impact:
+3) Key Features Impact:
    - Temperature (3520.22): Strongest positive influence
    
    - Year (2020.62): Shows significant growth trend
    
    - Weather conditions (-2414.30): Major negative impact during adverse conditions
-   4) The RMSE values (Training: 826.32, Testing: 763.76) and MAE values (Training: 617.31, Testing: 614.12) indicate consistent model performance across both datasets.
+ 4) The RMSE values (Training: 826.32, Testing: 763.76) and MAE values (Training: 617.31, Testing: 614.12) indicate consistent model performance across both datasets.
    
    
 
