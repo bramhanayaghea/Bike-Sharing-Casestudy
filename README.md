@@ -2,11 +2,11 @@
 
 # BoomBikes Bike Sharing Assignment
 
-[]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#Bike-Sharing-Casestudy)
+[](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#Bike-Sharing-Casestudy)
 
 ## **Problem Statement**
 
-[]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#problem-statement)
+[](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#problem-statement)
 
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein
  the user enters the payment information, and the system unlocks it. 
@@ -33,17 +33,17 @@ You are required to model the demand for shared bikes with the available indepen
 
 ## Table of Contents
 
-[]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#table-of-contents)
+[](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#table-of-contents)
 
-- [General Info]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#general-information)
-- [Technologies Used]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#technologies-used)
-- [Conclusions]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#conclusions)
-- [Recommendations]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#recommendations)
-- [Acknowledgements]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#acknowledgements)
+- [General Info](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#general-information)
+- [Technologies Used](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#technologies-used)
+- [Conclusions](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#conclusions)
+- [Recommendations](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#recommendations)
+- [Acknowledgements](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#acknowledgements)
 
 ## General Information
 
-[]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#general-information)
+[](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#general-information)
 
 **Issues to Address:**
 
@@ -65,7 +65,7 @@ demands.
 
 ## Conclusions
 
-[]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#conclusions)
+[](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#conclusions)
 
 **The equation of the best fit line is given by:**
 
@@ -98,7 +98,7 @@ weathersit_mist****
 
 ## Recommendations
 
-[]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#recommendations)
+[](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#recommendations)
 
 - 1. Temperature-Based Strategy: Maximize operations during optimal temperature conditions
   
@@ -118,7 +118,7 @@ weathersit_mist****
 
 ## Technologies Used
 
-[]([Bike-Sharing-Casestudy/README.md at main · bramhanayaghea/Bike-Sharing-Casestudy · GitHub](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md)#technologies-used)
+[](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#technologies-used)
 
 - Python
 - Matplotlib
@@ -129,7 +129,7 @@ weathersit_mist****
 - Sikit-Learn
 
 ## Acknowledgements
-
+[](https://github.com/bramhanayaghea/Bike-Sharing-Casestudy/blob/main/README.md#acknowledgements)
 Dataset used
 
 [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
